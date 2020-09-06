@@ -5,7 +5,7 @@
 body {
   background: #e5e5e5 url(../../assets/images/background.png);
   width: 100%;
-  height: 2250px;
+  height: 2150px;
   overflow-x: hidden;
   padding: 1rem 10%;
   padding-bottom: 0;
@@ -44,7 +44,7 @@ body {
  * ------------------------------------------------- */
 .container .side {
   position: absolute;
-  width: 20rem;
+  width: 25rem;
   background: #fff;
   border-radius: 5px;
   box-shadow: 0 5px 20px #bbb;
@@ -107,14 +107,14 @@ body {
         border-radius: 50%; }
   .container .side .info-unit ul li label {
     display: inline-block;
-    width: 48%; }
+    width: 38%; }
   .container .side .info-unit ul li span {
     display: inline-block;
     vertical-align: top;
     width: 50%; }
 .container .main {
   position: relative;
-  margin-left: 22rem;
+  margin-left: 26rem;
   background: #fff;
   border-radius: 5px;
   box-shadow: 0 5px 20px #bbb;
